@@ -10,4 +10,7 @@ jenkins CI/CD
 DockerHub
 Atlassian
 Bitbucket
+Continous Integration
+Continous Deployment
+
 
