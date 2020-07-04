@@ -6,5 +6,5 @@ ansible
 Puppet
 Terraform
 Git
-jenkins
+jenkins CI/CD
 
